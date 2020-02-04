@@ -1,0 +1,1 @@
+This is Eric's second Git test project.
